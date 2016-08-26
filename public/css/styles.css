@@ -1,0 +1,27 @@
+body {
+  /*background-color: #030302;*/
+  background-image: url("../img/stardust.png");
+}
+
+.header_text {
+  color: #03A902;
+  text-align: center;
+  margin-top: 20%;
+}
+.bottom_text {
+  color: #03A902;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.form-control {
+  text-align: center;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+#form {
+  padding-top: 25px;
+}
+
